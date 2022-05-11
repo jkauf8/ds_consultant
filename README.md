@@ -1,6 +1,6 @@
 # ds_consultant
 
-**Background and Introduction** \n
+**Background and Introduction** <br />
 Munchies is one of the fastest-growing cannabis brands in the world (made up project) and I have been hired as a consultant to conduct market research and effectively model and predict sales ($) a company may have based on data like the brand, total units, product count, inhalables offered, previous month sales, etc. I have decided to build a model that predicts sales because this will enable Munchies to leverage this information to maximize a feature that will likely increase their profits and ultimate success.
 
 To begin, I will engage in data cleaning to create a data set that I am happy with and that can be used and implemented correctly into a machine learning model. As for the exact machine learning algorithms I intend to use, I will be building both a multiple linear regression and a random forest model. By using different models and approaches, I will be able to determine which one is better at accurately predicting and modeling the data. My ultimate goal is to provide Munchies with a model that is generalizable and can be used to feed in new data and accurately predict sales, helping them identify the most important features that maximize growth and grow as a company as a whole.
